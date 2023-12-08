@@ -29,7 +29,7 @@ Crea Immagini in (quasi) Realtime solamente col Testo!
 
 3.Successivamente, puoi Scrivere il Prompt e fare Clic su Invia per Generare un'Immagine da esso
 
-4.Fare Clic su Cancella per Cancellare il Prompt (Testo) e l'Output (Immagine)
+4.Fare Clic su Clear per Cancellare il Prompt (Testo) e l'Output (Immagine)
 
 # Credits / Crediti:
 - Simone Rizzo
