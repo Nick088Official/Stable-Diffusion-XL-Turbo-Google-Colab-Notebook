@@ -25,7 +25,7 @@ Crea Immagini in (quasi) Realtime solamente col Testo!
 
 3. Eseguilo
 
-# WEB UI Usage / Utilizzo 
+# WEB UI Usage / Utilizzo (WARNING: THE FOLLOWING WEB UI COULD GET YOUR ACCOUNT AT RISK IF YOU HAVE A FREE TIER COLAB ACCOUNT)
 - Click-> <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/Stable-Diffusion-XL-Turbo-UI-Google-Colab-Notebook/blob/main/SDXL_Turbo_Modified.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
