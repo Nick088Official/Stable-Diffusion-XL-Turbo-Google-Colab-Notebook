@@ -19,7 +19,6 @@ Crea Immagini in (quasi) Realtime solamente col Testo!
 - Per la versione Italiana, Clicca -> <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/Stable-Diffusion-XL-Turbo-Google-Colab-Notebook/blob/main/No_UI_stable_diffusion_XL_Turbo_ITA_Modificata.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
 1.Esegui il codice seguente "INSTALLA STABLE DIFFUSION XL TURBO" (attendi che finisca prima di eseguire il passaggio successivo)
 
 2. Inserisci il tuo testo da cui generare l'immagine nel codice "ESEGUI STABLE DIFFUSION XL TURBO" nelle "" dopo il prompt =
