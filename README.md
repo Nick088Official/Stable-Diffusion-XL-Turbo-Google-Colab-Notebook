@@ -1,11 +1,32 @@
-# Stable-Diffusion-XL-Turbo-UI-Google-Colab-Notebook
-Google Colab Notebook for Stable Diffusion XL Turbo with UI
+# Stable-Diffusion-XL-Turbo-Google-Colab-Notebook
+Google Colab Notebook for Stable Diffusion XL Turbo 
 Make Images in (almost) Realtime by only Text!
 
-(ITA) Google Colab Notebook per Stable Diffusion XL Turbo con UI
+(ITA) Google Colab Notebook per Stable Diffusion XL Turbo 
 Crea Immagini in (quasi) Realtime solamente col Testo!
 
-# Usage / Utilizzo 
+# NO WEB UI Usage / Utilizzo
+- Click-> <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/Stable-Diffusion-XL-Turbo-Google-Colab-Notebook/blob/main/No_UI_stable_diffusion_XL_Turbo_Colab_Modified.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+1.Run the Code Below "INSTALL STABLE DIFFUSION XL TURBO" (Wait for it to finish before doing the next step)
+
+2.Put your prompt to generate the image below in the code "RUN STABLE DIFFUSION XL TURBO" in the "" after prompt =
+
+3. Run it
+
+- Per la versione Italiana, Clicca -> <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/Stable-Diffusion-XL-Turbo-Google-Colab-Notebook/blob/main/No_UI_stable_diffusion_XL_Turbo_ITA_Modificata.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
+1.Esegui il codice seguente "INSTALLA STABLE DIFFUSION XL TURBO" (attendi che finisca prima di eseguire il passaggio successivo)
+
+2. Inserisci il tuo testo da cui generare l'immagine nel codice "ESEGUI STABLE DIFFUSION XL TURBO" nelle "" dopo il prompt =
+
+3. Eseguilo
+
+# WEB UI Usage / Utilizzo 
 - Click-> <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/Stable-Diffusion-XL-Turbo-UI-Google-Colab-Notebook/blob/main/SDXL_Turbo_Modified.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -34,3 +55,4 @@ Crea Immagini in (quasi) Realtime solamente col Testo!
 # Credits / Crediti:
 - Simone Rizzo
 - Nick088
+- Woctezuma
