@@ -2,10 +2,7 @@
 Google Colab Notebook for Stable Diffusion XL Turbo 
 Make Images in (almost) Realtime by only Text!
 
-(ITA) Google Colab Notebook per Stable Diffusion XL Turbo 
-Crea Immagini in (quasi) Realtime solamente col Testo!
-
-# NO WEB UI Usage / Utilizzo
+# NO WEB UI Usage
 - Click-> <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/Stable-Diffusion-XL-Turbo-Google-Colab-Notebook/blob/main/No_UI_stable_diffusion_XL_Turbo_Colab_Modified.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -16,16 +13,7 @@ Crea Immagini in (quasi) Realtime solamente col Testo!
 
 3. Run it
 
-- Per la versione Italiana, Clicca -> <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/Stable-Diffusion-XL-Turbo-Google-Colab-Notebook/blob/main/No_UI_stable_diffusion_XL_Turbo_ITA_Modificata.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-1.Esegui il codice seguente "INSTALLA STABLE DIFFUSION XL TURBO" (attendi che finisca prima di eseguire il passaggio successivo)
-
-2. Inserisci il tuo testo da cui generare l'immagine nel codice "ESEGUI STABLE DIFFUSION XL TURBO" nelle "" dopo il prompt =
-
-3. Eseguilo
-
-# WEB UI Usage / Utilizzo (WARNING: THE FOLLOWING WEB UI COULD GET YOUR ACCOUNT AT RISK IF YOU HAVE A FREE TIER COLAB ACCOUNT)
+# WEB UI Usage (WARNING: THE FOLLOWING WEB UI COULD GET YOUR ACCOUNT AT RISK IF YOU HAVE A FREE TIER COLAB ACCOUNT)
 - Click-> <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/Stable-Diffusion-XL-Turbo-UI-Google-Colab-Notebook/blob/main/SDXL_Turbo_Modified.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -38,20 +26,7 @@ Crea Immagini in (quasi) Realtime solamente col Testo!
 
 4.Click Clear to Clear the Prompt (Text) and Output (Image)
 
-
-- Per la Versione Italiana, Clicca-> <a target="_blank" href="https://colab.research.google.com/github/Nick088Official/Stable-Diffusion-XL-Turbo-UI-Google-Colab-Notebook/blob/main/SDXL_Turbo_Modificata_ITA.ipynb">
-  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
-</a>
-
-1.Esegui il codice seguente "INSTALLA STABLE DIFFUSION XL TURBO" (attendi che finisca prima di eseguire il passaggio successivo)
-
-2.Esegui il codice seguente "ESEGUI STABLE DIFFUSION XL TURBO" e attendi l'UI di Gradio
-
-3.Successivamente, puoi Scrivere il Prompt e fare Clic su Invia per Generare un'Immagine da esso
-
-4.Fare Clic su Clear per Cancellare il Prompt (Testo) e l'Output (Immagine)
-
-# Credits / Crediti:
+# Credits:
 - Simone Rizzo
 - Nick088
 - Woctezuma
